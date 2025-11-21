@@ -45,7 +45,7 @@
 ### 📈 GitHub Stats:
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyaksha0612&show_icons=true&theme=default&locale=en" alt="mishtisethi12" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mishtisethi12&show_icons=true&theme=default&locale=en" alt="mishtisethi12" />
 </p>
 
 <p>
