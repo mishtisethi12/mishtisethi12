@@ -2,7 +2,7 @@
 <h3 align="center">A college student looking forward to collaborate with new ideas and projects. </h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=pratyaksha0612&label=Profile%20views&color=0e75b6&style=flat" alt="pratyaksha0612" />
+  <img src="https://komarev.com/ghpvc/?username=mishtisethi12&label=Profile%20views&color=0e75b6&style=flat" alt="pratyaksha0612" />
 </p>
 
 ---
