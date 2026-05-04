@@ -7,15 +7,8 @@
 
 ---
 
-### 🎥 Introduction Video
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1xuXUxV082SzKu4zC4ylncSYndMm0L7-O/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/▶️ Watch My Introduction Video-blue?style=for-the-badge" />
-  </a>
-</p>
 
----
 
 ---
 
